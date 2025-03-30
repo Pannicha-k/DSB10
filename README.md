@@ -8,3 +8,8 @@ My data science and analytics projects
 3. R programming - Pao Ying chub
 4. Looker GA4 Dashboard
 5. Linear Regession Model using caret
+
+## Contact Me
+reach out to me at Pannicha.6167@gamil.com
+
+## Image

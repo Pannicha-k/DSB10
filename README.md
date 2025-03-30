@@ -13,3 +13,4 @@ My data science and analytics projects
 reach out to me at Pannicha.6167@gamil.com
 
 ## Image
+![Deadpool](https://community.qlik.com/t5/image/serverpage/image-id/834i8F9315CE32CB825C/image-size/large/is-moderation-mode/true?v=v2&px=999)
